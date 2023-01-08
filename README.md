@@ -1,2 +1,3 @@
 # value_company_shares
-Using DCF modelling to value company's shares
+Valuation of company's shares using DCF modelling
+
